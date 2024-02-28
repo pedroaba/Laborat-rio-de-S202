@@ -1,0 +1,99 @@
+[{
+  "_id": {
+    "$oid": "65de90587ea792c3e3a729f9"
+  },
+  "teacher": {
+    "name": "Eduardo Pereira",
+    "age": 45,
+    "subject": "Chemistry"
+  },
+  "topic": "Organic Chemistry",
+  "students": [
+    {
+      "name": "Alice Santos",
+      "age": 20,
+      "course": "Chemistry"
+    },
+    {
+      "name": "Pedro Rocha",
+      "age": 19,
+      "course": "Biology"
+    },
+    {
+      "name": "Larissa Lima",
+      "age": 21,
+      "course": "Pharmacy"
+    },
+    {
+      "name": "Bruno Ferreira",
+      "age": 22,
+      "course": "Chemistry"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65de90707ea792c3e3a729fa"
+  },
+  "teacher": {
+    "name": "Juliana Macedo",
+    "age": 35,
+    "subject": "History"
+  },
+  "topic": "Ancient History",
+  "students": [
+    {
+      "name": "Sofia Gonçalves",
+      "age": 20,
+      "course": "History"
+    },
+    {
+      "name": "Rafael Silva",
+      "age": 19,
+      "course": "Law"
+    },
+    {
+      "name": "Clara Barros",
+      "age": 21,
+      "course": "Archaeology"
+    },
+    {
+      "name": "Gabriel Andrade",
+      "age": 22,
+      "course": "History"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65de90827ea792c3e3a729fb"
+  },
+  "teacher": {
+    "name": "Carlos Silva",
+    "age": 40,
+    "subject": "Mathematics"
+  },
+  "topic": "Linear Algebra",
+  "students": [
+    {
+      "name": "Ana Beatriz",
+      "age": 20,
+      "course": "Engineering"
+    },
+    {
+      "name": "Lucas Martins",
+      "age": 19,
+      "course": "Mathematics"
+    },
+    {
+      "name": "Mariana Costa",
+      "age": 21,
+      "course": "Physics"
+    },
+    {
+      "name": "João Pedro",
+      "age": 22,
+      "course": "Engineering"
+    }
+  ]
+}]
