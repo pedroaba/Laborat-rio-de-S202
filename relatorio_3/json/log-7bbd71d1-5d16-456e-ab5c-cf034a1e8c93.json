@@ -1,0 +1,24 @@
+{
+    "pokemon": {
+        "id": 137,
+        "num": "137",
+        "name": "Porygon",
+        "img": "http://www.serebii.net/pokemongo/pokemon/137.png",
+        "type": [
+            "Normal"
+        ],
+        "height": "0.79 m",
+        "weight": "36.5 kg",
+        "candy": "None",
+        "egg": "100km",
+        "spawn_chance": 0.012,
+        "avg_spawns": 1.2,
+        "spawn_time": "02:49",
+        "multipliers": null,
+        "weaknesses": [
+            "Fighting"
+        ]
+    },
+    "pokemon_id": 137,
+    "operation": "update_by_id"
+}
